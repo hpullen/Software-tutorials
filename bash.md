@@ -50,9 +50,9 @@ The following bash commands are useful when dealing with files and directories:
     * `head -n <filename>`: print the first n lines of a file
     * `tail -n <filename>`: print the last n lines of a file
 
-## Accessing the HEP cluster
+## Accessing a remote machine
 
-To log into another shell remotely (such as the HEP cluster), use the "**s**ecure **sh**ell" (`ssh`) command:
+To log into another shell remotely, use the "**s**ecure **sh**ell" (`ssh`) command:
 
 `ssh -Y <username>@<machine>.hep.phy.cam.ac.uk`
 
